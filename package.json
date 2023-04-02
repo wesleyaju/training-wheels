@@ -1,5 +1,13 @@
 {
   "devDependencies": {
     "cypress": "^12.9.0"
-  }
+  },
+  "name": "training-wheels",
+  "version": "1.0.0",
+  "description": "Projeto para aprender manipular elementos da web com cypress",
+  "main": "index.js",
+  "repository": "https://github.com/wesleyaju/training-wheels.git",
+  "author": "Wesley Almeida <wesleyaju@masup.com.br>",
+  "license": "MIT",
+  "private": null
 }
